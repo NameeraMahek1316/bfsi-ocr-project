@@ -1,0 +1,25 @@
+Description,Price,Category,Confidence
+Bakery,1000,Food & Restaurants,0.5690689086914062
+Shopping Mall,4000,Shopping,0.8335508108139038
+Restaurant,200,Food & Restaurants,0.7491155862808228
+Books,500,Grocery Stores,0.15505258738994598
+Groceries,1000,Grocery Stores,0.41665253043174744
+Reliance Smart,4000,Bill Payments,0.20222307741641998
+Netflix Subscription,200,Bill Payments,0.19710278511047363
+Movie,500,Entertainment,0.47366297245025635
+Credit Card Payment,1000,Loan Payment,0.6646246314048767
+Payment to Mohd,4000,Loan Payment,0.3626769483089447
+Bill Payment,200,Loan Payment,0.36454999446868896
+Hotel Stay,500,Food & Restaurants,0.3288876712322235
+Hospital,1000,Health & Medical,0.6939420700073242
+Air tickets to US,4000,Funds Transfer,0.17154595255851746
+Handbag,200,General Store,0.16977271437644958
+Clothes,500,Grocery Stores,0.14147356152534485
+Amazon pvt ltd,1000,Bill Payments,0.16416417062282562
+Payment to Vegetable Vendor,4000,Grocery Stores,0.2718261182308197
+TAX,200,Tax Payments,0.8177065849304199
+Reliance Fresh,500,Retail Business,0.19697633385658264
+Amazon,1000,Retail Business,0.2243175357580185
+Prime Video,4000,Bill Payments,0.16489526629447937
+Drug store,200,Grocery Stores,0.20169252157211304
+Reliance Fresh,500,Retail Business,0.19697633385658264

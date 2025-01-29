@@ -1,0 +1,54 @@
+Description,Amount,MCC Code,Category,Confidence
+mevddvyyyy Fast Payment -Amazon 13220,8181.0,,Loan Payment,0.40595120191574097
+Imenvdyyyyy Fast Payment Morrisons Petrot 0.00,7585.78,,Loan Payment,0.49785369634628296
+"mnnydcyyyy BACS Business Loan 20,000.00",27585.78,,Loan Payment,0.7008954882621765
+Imenddyyyy Fast Payment ATM High Street too.00,25068.93,,Funds Transfer,0.45199695229530334
+meevedyyyy Fast Payment  Marriott Hotels 17700,24741.93,,Food & Restaurants,0.18335670232772827
+menjddyyyyy Fast Payment -Abelio Scotrall ud 12323,24819.71,,Loan Payment,0.4202432334423065
+menjddyyyy Fast Payment Cheque 000234 420000,23419.71,,Loan Payment,0.5720916986465454
+"Imevddiyyyy Int, Bank interest Paid 933",23429.04,,Loan Payment,0.5806106328964233
+mmydiyyy DD OVO Energy 270.00,23159.04,,Bill Payments,0.2805013358592987
+"mmddyy DO OMA, 280.00",11353.64,,Bill Payments,0.1484859734773636
+menzadiyyyy 0D BOS Mastercard 4on00,5799.64,,Funds Transfer,0.21342764794826508
+02701 Online Transfer From Chk ...1858 Transactlon 7901783357,620.0,,Funds Transfer,0.5675585269927979
+Total Deposits and Additions,620.0,,Loan Payment,0.48135000467300415
+"0128 Card Purchase, 26 O1425 5004954 Phoenix AZ Gard 4496",2.99,,Funds Transfer,0.2320459634065628
+0221 Recurring Card Purchase 0220 Amazon Prime Amzn.Comail WA Gard 4498,74.04,,Funds Transfer,0.228997603058815
+Total ATM  Debit Card Withdrawals,28.66,,Funds Transfer,0.436712384223938
+0201 0204 Online Payment 7901788327 To Mortgage 1008.,616.21,,Loan Payment,0.7684705853462219
+Total Electronic Withdrawals,616.21,,Loan Payment,0.4189552664756775
+02704  0202 Withdrawal,4.0,,Loan Payment,0.38462239503860474
+Total Gther Withdrawals,4.0,,Bill Payments,0.1834026575088501
+02721 Insufficient Funds Fee For A 14.04 Recurring Card Purchase - Details 0220Amazon,34.0,,Loan Payment,0.5327215194702148
+0221 Monthy Service Fee,72.0,,Funds Transfer,0.277946412563324
+Total Fees,46.0,,Loan Payment,0.2910923957824707
+AccountTransfer In,500000.0,,Funds Transfer,0.24648594856262207
+Cheque Deposite,10000.0,,Loan Payment,0.4897274374961853
+mmddyyyy Petron - CS Station,223.26,,Food & Restaurants,0.2153533697128296
+mmddyyyy South Star Drug,313.39,,Health & Medical,0.26583749055862427
+mmddyyyy Rosewood Condominum,582.96,,Bill Payments,0.14586478471755981
+mmddyyyy Grab,125.0,,Entertainment,0.1539010852575302
+mmddyyyy Amazon,215.0,,Bill Payments,0.2164783477783203
+mmddyyyy Alba international,656.86,,Food & Restaurants,0.20267753303050995
+mmddyyyy Adobe Sales,246.0,,Bill Payments,0.15784402191638947
+mmddyyyy St. Luke Medical Center,571.1,,Health & Medical,0.8122062087059021
+mmddyyyy Hotel Sheraton Las Vegas,965.0,,Food & Restaurants,0.2516196370124817
+101 Recurring Transfer Ref OpeqappdsG From Business Checking so000x621 150.00,3087.03,,Funds Transfer,0.58707594871521
+102 F Overdraft Protection to 3395605821 150.00,2937.03,,Bill Payments,0.24844437837600708
+107 Deposits Made in A BranchiStore 5.00,2567.03,,Loan Payment,0.42549872398376465
+1024 Deposits Made in A BranchiStore,46.0,,Loan Payment,0.35184574127197266
+"Beginning balance on December 20, 2016",356.41,,Loan Payment,0.5290996432304382
+Deposits and other additions,3921.69,,Loan Payment,0.4669088125228882
+"Ending balance on January 19, 2017",578.46,,Loan Payment,0.5050435662269592
+"Electronic Deposits 5,203.98 Intarast Eamed This Perio",0.0,,Loan Payment,0.23149552941322327
+Interest Patd Year-to-Date.,0.08,,Loan Payment,0.6606805920600891
+"Electronic Payments, 2,192.63 Annual Percentage Yield Eamed",0.0,,Loan Payment,0.6711154580116272
+Ending Balance,13989.98,,Loan Payment,0.4557718336582184
+"vag ATM GHECK DEPOSIT, AUT 101720 ATM CHECK DEPOS",220.0,,Loan Payment,0.45555737614631653
+"3a ACH DEPOSIT, STATE OF NJ-LA UEMPLOYMEN 04-11-4747",600.0,,Loan Payment,0.2598118782043457
+"03128 ATM CHECK DEPOSIT, AUT 102820 ATM CHECK DEPOS",165.0,,Loan Payment,0.5272595882415771
+Subtotal,203.26,,Food & Restaurants,0.19999755918979645
+"03705 DEBIT CARD PURCHASE, AUT 100220 VISA DDA BUR",92.63,,Funds Transfer,0.43629753589630127
+"0208 DEBIT CARD PURCHASE, AUT 106720 VISA DDA PUR.",25.89,,Funds Transfer,0.41277897357940674
+Business Loan,20000.0,,Loan Payment,0.8436715006828308
+Interest Paid,9.33,,Loan Payment,0.6354644298553467
