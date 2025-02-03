@@ -124,7 +124,7 @@ if st.sidebar.button("Process Files"):
             st.plotly_chart(fig)
 
         elif doc_type == "Bank Transactions":
-            excel_path = r"C:\Users\namee\OneDrive\Desktop\infosys_project\backend\unsupervised\yes.xlsx"  # Path to stored Excel file
+            excel_path = r"C:\Users\namee\OneDrive\Desktop\bfsi-ocr-project\unsupervised\yes.xlsx"  # Path to stored Excel file
             data = pd.read_excel(excel_path)
             st.subheader("Extracted Transactions")
             st.dataframe(data)
